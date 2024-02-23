@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042917200218",
+    "project_id": "pedelogo-3f824",
+    "storage_bucket": "pedelogo-3f824.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042917200218:android:7e7f25c250ff448e736363",
+        "android_client_info": {
+          "package_name": "com.pedelogo.restaurante"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLNS40sKR90kt0_lrr26aFXXriWhPB3e8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
